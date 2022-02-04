@@ -1,0 +1,30 @@
+{
+  "name": "video-to-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.1048.0",
+    "axios": "^0.24.0",
+    "chalk": "^2.4.2",
+    "cloudinary": "^1.27.1",
+    "ffmpeg": "0.0.4",
+    "fs-extra": "^10.0.0",
+    "mocha": "^6.2.0",
+    "unscan": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blugee/content-moderation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blugee/content-moderation/issues"
+  },
+  "homepage": "https://github.com/blugee/content-moderation#readme"
+}
